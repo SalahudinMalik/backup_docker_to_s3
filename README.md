@@ -8,7 +8,9 @@ To run this in terminal: `sudo ./backup_docker_to_s3.sh container_name`
 
 i.e `sudo ./backup_docker_to_s3.sh your_docker_container_name`
 
-This command will create and store backup to aws s3 
+This command will create and store backup to aws s3
+
+![alt text](https://miro.medium.com/max/1319/1*JOtHFpSg9_Y4VQPDp-Ykow.png)
 
 ### `Restore backup` 
 
