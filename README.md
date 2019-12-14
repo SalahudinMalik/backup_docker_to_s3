@@ -21,3 +21,19 @@ Make sure you have changed network ID to your docker network ID in containers/co
 ### `AWS S3 Backup`
 
 To backup to s3 you need to install `s3cmd` command line interface and add your s3 credential in it. [here](https://s3tools.org/usage) is the doc to set that.
+
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+
+## Authors
+
+* **Salahudin Malik** - *Initial work* - [SalahudinMalik](https://github.com/SalahuidnMalik)
+
+See also the list of [contributors](https://github.com/salahudinmalik/project) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
